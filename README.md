@@ -69,7 +69,6 @@ terraform destroy -auto-approve
 
 Here are some screenshots of the script in action:
 
-![Screenshot 1](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(1).png) 
 ![Screenshot 2](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(2).png) 
 ![Screenshot 3](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(3).png) 
 ![Screenshot 4](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(4).png) 
@@ -79,7 +78,6 @@ Here are some screenshots of the script in action:
 ![Screenshot 8](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(8).png) 
 ![Screenshot 9](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(9).png) 
 ![Screenshot 10](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(10).png) 
-![Screenshot 11](https://github.com/mohamedesmael10/terraform_ec2_apache_with_public_access/blob/main/Shots/(11).png) 
 
 
 - **Mohamed Mostafa Esmael**  
